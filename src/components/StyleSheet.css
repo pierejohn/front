@@ -1,0 +1,187 @@
+.logo
+{
+  width: 40%;
+}
+.logoFooter
+{
+    width: 10%;
+}
+.NavParText
+{
+    color: red;
+    
+}
+.R_img
+{
+    width: 90%;
+}
+.textSmall
+{
+    font-size: 15px;
+    font-weight:400;
+}
+.bigtext{
+    font-size: 140%;
+}
+.BoldNum
+{
+    font-weight: bolder;
+    font-size: 130%;
+}
+.BoldNum-2{
+    font-weight: bolder;
+}
+.biggertext
+{
+    font-size: 200%;
+}
+.reduis
+{
+    border-radius: 20px;
+    
+}
+.reduisLow{
+    border-radius: 10px;
+}
+.nav li.active
+{
+  
+      background-color:black;
+  
+} 
+
+#NavParText:hover
+{
+    color: #0d6efd;
+}
+.remove_underline
+{
+    text-decoration: none
+}
+.corona_bold_text
+{
+    font-weight: bold;
+    font-size: 300%;
+    font-family: fantasy;
+    color: rgb(23, 40, 107);
+}
+.Home
+{
+    background-image: url(../photos/shape-a.png);
+
+} 
+.Treatment{
+    background-image: url(../photos/shape-a.png);
+    background-color: #1c5dc0;
+}
+.footerbg
+{
+    background-image: url(../photos/shape-a.png);
+    background-color: #0c1b33;
+    text-decoration: none;
+}
+.bluebg
+{
+    background-color: #25379c;
+}
+#navbarSupportedContent
+{
+    padding-left: 146px;
+}
+.text_about_corona
+{
+    font-size: large;
+}
+.blue_big_text
+{
+    color: #0d6efd;
+    font-size: 150%;
+    font-weight: 500;
+}
+.MakeShadow
+{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    text-align: center;
+    
+}
+.medText
+{
+    font-size: larger;
+}
+.blue_text
+{
+    color: #0d6efd;  
+}
+.card-img-top
+{
+    border-bottom:  solid #0d6efd ;
+}
+.rounded-circle
+{
+    max-width: 100px;
+}
+.bold_text
+{
+    font-weight: 700;
+}
+.MaxWidth300px
+{
+    max-width: 300px;
+}
+.MaxWidth400px{
+    max-width: 400px;
+}
+.MaxWidth800px
+{
+    max-width: 800px;
+}
+.MinWidth2000px
+{
+    min-width: 170%;
+}
+.fa-triangle-exclamation
+{
+    font-size: 300%;
+    color: #0d6efd;
+}
+.active
+{
+    color: #0d6efd;
+}
+
+  body{
+    background-color: rgba(240, 238, 235, 0.301);
+  }
+  .background-w
+  {
+background-color:white
+  }
+ .centerFont
+ {
+    text-align: center;
+ }
+ .white-text{
+    color: white;
+ }
+ .babyBlue-text{
+    color: rgb(49, 210, 250);
+ }
+ .redBorder
+ {
+    border: solid red;
+ }
+ .greenBorder
+ {
+    border: solid green;
+ }
+ .btn-outline{
+border: solid gray;
+ } 
+ .btn-outline:hover{
+    color: #0d6efd;
+    border: solid #0d6efd;
+     } 
+       
+     .cardBig{
+        min-height: 1000px;
+     }
